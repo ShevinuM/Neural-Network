@@ -1,0 +1,8 @@
+Connection.class
+Main.class
+Net.class
+Neuron.class
+GeometricSeriesDataGenerator.class
+TrainingData.java
+xnor_training_data.txt
+XNORDataGenerator.class
